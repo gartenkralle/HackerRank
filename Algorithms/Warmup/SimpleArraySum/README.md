@@ -2,7 +2,7 @@ Simple Array Sum
 ================
 Given an array of `N` integers, can you find the sum of its elements?
 
-Input Format
+#### Input Format
 
 The first line contains an integer, `N`, denoting the size of the array.<br>
 The second line contains `N` space-separated integers representing the array's elements.
