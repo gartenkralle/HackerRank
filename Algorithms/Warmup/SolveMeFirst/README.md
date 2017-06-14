@@ -13,3 +13,6 @@ Code that reads input from stdin is provided for you in the editor. There are  l
 #### Output Format
 
 Code that prints the sum calculated and returned by solveMeFirst is provided for you in the editor.
+<br>
+<br>
+#### Reference: [HackerRank](https://www.hackerrank.com/challenges/solve-me-first)
