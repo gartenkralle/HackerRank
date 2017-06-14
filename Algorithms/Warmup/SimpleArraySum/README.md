@@ -23,3 +23,6 @@ Print the sum of the array's elements as a single integer.
 #### Explanation
 
 We print the sum of the array's elements, which is: **1 + 2 + 3 + 4 + 10 + 11 = 31**.
+<br>
+<br>
+[HackerRank](https://www.hackerrank.com/challenges/simple-array-sum)
