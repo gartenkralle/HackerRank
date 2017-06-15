@@ -50,7 +50,7 @@ The next section describes the constraints and ranges of the input. You should c
 #### Constraints
 - **1 <= n <= 1000**
 - **-1000 <= V <= 1000, V E ar**
-- It is guaranteed that **V** will occur in  exactly once.
+- It is guaranteed that **V** will occur in  exactly once.<br>
 <i>This "sample" shows the first input test case. It is often useful to go through the sample to understand a challenge.</i>
 
 #### Sample Input
@@ -62,7 +62,7 @@ The next section describes the constraints and ranges of the input. You should c
 `
 1`
 #### Explanation 
-. The value  is the nd element in the array, but its index is  since array indices start from , so the answer is **1**.
+**V = 4**. The value **4** is the **2**nd element in the array, but its index is **1** since array indices start from **0**, so the answer is **1**.
 <br>
 <br>
 #### Reference: [HackerRank](https://www.hackerrank.com/challenges/tutorial-intro)
