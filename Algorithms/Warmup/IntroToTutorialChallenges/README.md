@@ -39,18 +39,18 @@ The next section describes the input format. You can often skip it, if you are u
 #### Input Format 
 There will be three lines of input:
 
- - the value that has to be searched.
- - the size of the array.
- -  numbers that make up the array.
+**V** - the value that has to be searched.
+**n** - the size of the array.
+**ar - n** -  numbers that make up the array.
 #### Output Format 
-Output the index of  in the array.
+Output the index of **V** in the array.
 
 The next section describes the constraints and ranges of the input. You should check this section to know the range of the input.
 
 #### Constraints
 
-It is guaranteed that  will occur in  exactly once.
-This "sample" shows the first input test case. It is often useful to go through the sample to understand a challenge.
+It is guaranteed that **V** will occur in  exactly once.
+<i>This "sample" shows the first input test case. It is often useful to go through the sample to understand a challenge.</i>
 
 #### Sample Input
 
