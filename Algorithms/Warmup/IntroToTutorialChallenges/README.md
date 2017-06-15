@@ -54,10 +54,10 @@ The next section describes the constraints and ranges of the input. You should c
 <i>This "sample" shows the first input test case. It is often useful to go through the sample to understand a challenge.</i>
 
 #### Sample Input
-`
-4<br>
-6<br>
-1 4 5 7 9 12`
+
+`4`<br>
+`6`<br>
+`1 4 5 7 9 12`
 #### Sample Output
 `
 1`
