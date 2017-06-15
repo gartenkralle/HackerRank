@@ -34,7 +34,7 @@ For many challenges, helper methods (like an array) will be provided for you to 
 #### Sample Challenge 
 This is a simple challenge to get things started. Given a sorted array () and a number (), can you print the index location of  in the array?
 
-The next section describes the input format. You can often skip it, if you are using included methods.
+<i>The next section describes the input format. You can often skip it, if you are using included methods.<i>
 
 #### Input Format 
 There will be three lines of input:
