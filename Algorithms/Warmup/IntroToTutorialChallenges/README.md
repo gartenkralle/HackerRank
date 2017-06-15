@@ -11,22 +11,22 @@ The first series of challenges covers sorting. The challenges are listed below:
 
 Insertion Sort challenges<br>
 <br>
-Insertion Sort 1 - Inserting<br>
-Insertion Sort 2 - Sorting<br>
-Correctness and loop invariant<br>
-Running Time of Algorithms<br>
-Quicksort challenges<br>
+- Insertion Sort 1 - Inserting<br>
+- Insertion Sort 2 - Sorting<br>
+- Correctness and loop invariant<br>
+- Running Time of Algorithms<br>
+- Quicksort challenges<br>
 <br>
-Quicksort 1 - Partition<br>
-Quicksort 2 - Sorting<br>
-Quicksort In-place (advanced)<br>
-Running time of Quicksort<br>
-Counting sort challenges<br>
+- Quicksort 1 - Partition<br>
+- Quicksort 2 - Sorting<br>
+- Quicksort In-place (advanced)<br>
+- Running time of Quicksort<br>
+- Counting sort challenges<br>
 <br>
-Counting Sort 1 - Counting<br>
-Counting Sort 2 - Simple sort<br>
-Counting Sort 3 - Preparing<br>
-Full Counting Sort (advanced)<br>
+- Counting Sort 1 - Counting<br>
+- Counting Sort 2 - Simple sort<br>
+- Counting Sort 3 - Preparing<br>
+- Full Counting Sort (advanced)<br>
 There will also be some challenges where you'll get to apply what you've learnt.
 
 #### About the Challenges 
