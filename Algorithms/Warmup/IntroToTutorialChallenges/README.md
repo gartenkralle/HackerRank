@@ -35,16 +35,19 @@ The challenges will describe some topic and then ask you to code a solution. As 
 For many challenges, helper methods (like an array) will be provided for you to process the input into a useful format. You can use these methods to get started with your program, or you can write your own input methods if you want. Your code just needs to print the right output to each test case.
 
 #### Sample Challenge 
-This is a simple challenge to get things started. Given a sorted array () and a number (), can you print the index location of  in the array?
+This is a simple challenge to get things started. Given a sorted array (**ar**) and a number (**V**), can you print the index location of **V** in the array?
 
 <i>The next section describes the input format. You can often skip it, if you are using included methods.<i>
 
 #### Input Format 
 There will be three lines of input:
 
-**V** - the value that has to be searched.
-**n** - the size of the array.
-**ar - n** -  numbers that make up the array.
+- **V** - the value that has to be searched.
+
+- **n** - the size of the array.
+
+- **ar - n** -  numbers that make up the array.
+
 #### Output Format 
 Output the index of **V** in the array.
 
