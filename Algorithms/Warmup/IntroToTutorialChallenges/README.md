@@ -48,20 +48,21 @@ Output the index of **V** in the array.
 The next section describes the constraints and ranges of the input. You should check this section to know the range of the input.
 
 #### Constraints
-
-It is guaranteed that **V** will occur in  exactly once.
+- **1 <= n <= 1000**
+- **-1000 <= V <= 1000, V E ar**
+- It is guaranteed that **V** will occur in  exactly once.
 <i>This "sample" shows the first input test case. It is often useful to go through the sample to understand a challenge.</i>
 
 #### Sample Input
-
+`
 4
 6
-1 4 5 7 9 12
+1 4 5 7 9 12`
 #### Sample Output
-
-1
+`
+1`
 #### Explanation 
-. The value  is the nd element in the array, but its index is  since array indices start from , so the answer is .
+. The value  is the nd element in the array, but its index is  since array indices start from , so the answer is **1**.
 <br>
 <br>
 #### Reference: [HackerRank](https://www.hackerrank.com/challenges/tutorial-intro)
