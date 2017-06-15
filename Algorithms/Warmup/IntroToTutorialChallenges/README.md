@@ -45,7 +45,7 @@ There will be three lines of input:
 #### Output Format 
 Output the index of **V** in the array.
 
-The next section describes the constraints and ranges of the input. You should check this section to know the range of the input.
+<i>The next section describes the constraints and ranges of the input. You should check this section to know the range of the input.</i>
 
 #### Constraints
 - **1 <= n <= 1000**
