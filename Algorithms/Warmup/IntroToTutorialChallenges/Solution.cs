@@ -11,14 +11,14 @@ namespace Solution
             int n = Int32.Parse(Console.ReadLine());
 
             string[] s = Console.ReadLine().Split(' ');
-            List<int> ar = new List<int>();
+            List<int> arr = new List<int>();
 
             for (int i = 0; i < n; i++)
             {
-                ar.Add(Int32.Parse(s[i]));
+                arr.Add(Int32.Parse(s[i]));
             }
 
-            Console.WriteLine(ar.IndexOf(V));
+            Console.WriteLine(arr.IndexOf(V));
         }
     }
 }
