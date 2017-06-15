@@ -41,7 +41,7 @@ The secondary diagonal is:
    5
 10
 ```
-Sum across the secondary diagonal: 4 + 5 + 10 = 19 
+Sum across the secondary diagonal: 4 + 5 + 10 = 19<br>
 Difference: |4 - 19| = 15
 
 **Note:** |x| is [absolute value](https://www.mathsisfun.com/numbers/absolute-value.html) function
