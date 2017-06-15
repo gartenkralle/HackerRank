@@ -55,8 +55,8 @@ The next section describes the constraints and ranges of the input. You should c
 
 #### Sample Input
 `
-4
-6
+4<br>
+6<br>
 1 4 5 7 9 12`
 #### Sample Output
 `
