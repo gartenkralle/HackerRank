@@ -1,12 +1,14 @@
 Diagonal Difference
 ===================
-Given a square matrix of size , calculate the absolute difference between the sums of its diagonals.
+Given a square matrix of size **N x N**, calculate the absolute difference between the sums of its diagonals.
 
 #### Input Format
 
-The first line contains a single integer, . The next  lines denote the matrix's rows, with each line containing space-separated integers describing the columns.
+The first line contains a single integer, **N**. The next **N** lines denote the matrix's rows, with each line containing **N** space-separated integers describing the columns.
 
 #### Constraints
+
+- -100 <= Elements in the matrix <= 100
 
 #### Output Format
 
@@ -42,4 +44,7 @@ The secondary diagonal is:
 Sum across the secondary diagonal: 4 + 5 + 10 = 19 
 Difference: |4 - 19| = 15
 
-Note: |x| is absolute value function
+**Note:** |x| is [absolute value](https://www.mathsisfun.com/numbers/absolute-value.html) function
+<br>
+<br>
+#### Reference: [HackerRank](https://www.hackerrank.com/challenges/diagonal-difference/problem)
