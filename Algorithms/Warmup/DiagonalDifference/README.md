@@ -30,7 +30,7 @@ The primary diagonal is:
 11
    5
      -12
-     ```
+```
 Sum across the primary diagonal: 11 + 5 - 12 = 4
 
 The secondary diagonal is:
