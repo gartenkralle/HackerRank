@@ -30,7 +30,7 @@ Counting sort challenges
 There will also be some challenges where you'll get to apply what you've learnt.
 
 #### About the Challenges 
-The challenges will describe some topic and then ask you to code a solution. As you progress through the challenges, you will learn some important concepts in algorithms. In each challenge, you will receive input on STDIN and you will need to print the correct output to STDOUT.
+The challenges will describe some topic and then ask you to code a solution. As you progress through the challenges, you will learn some important concepts in algorithms. In each challenge, you will receive input on [STDIN](https://en.wikipedia.org/wiki/Standard_streams#Standard_input_.28stdin.29) and you will need to print the correct output to STDOUT.
 
 For many challenges, helper methods (like an array) will be provided for you to process the input into a useful format. You can use these methods to get started with your program, or you can write your own input methods if you want. Your code just needs to print the right output to each test case.
 
