@@ -55,12 +55,12 @@ The next section describes the constraints and ranges of the input. You should c
 
 #### Sample Input
 
-`4`<br>
-`6`<br>
-`1 4 5 7 9 12`
+````4
+6
+1 4 5 7 9 12````
 #### Sample Output
-`
-1`
+
+````1````
 #### Explanation 
 **V = 4**. The value **4** is the **2**nd element in the array, but its index is **1** since array indices start from **0**, so the answer is **1**.
 <br>
