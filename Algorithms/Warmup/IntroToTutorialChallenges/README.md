@@ -10,21 +10,30 @@ The first series of challenges covers sorting. The challenges are listed below:
 #### Tutorial Challenges - Sorting
 
 Insertion Sort challenges
-- Insertion Sort 1 - Inserting<br>
-- Insertion Sort 2 - Sorting<br>
-- Correctness and loop invariant<br>
-- Running Time of Algorithms<br>
+- Insertion Sort 1 - Inserting
+
+- Insertion Sort 2 - Sorting
+
+- Correctness and loop invariant
+
+- Running Time of Algorithms
 
 Quicksort challenges
-- Quicksort 1 - Partition<br>
-- Quicksort 2 - Sorting<br>
-- Quicksort In-place (advanced)<br>
-- Running time of Quicksort<br>
+- Quicksort 1 - Partition
+
+- Quicksort 2 - Sorting
+
+- Quicksort In-place (advanced)
+
+- Running time of Quicksort
 
 Counting sort challenges
-- Counting Sort 1 - Counting<br>
-- Counting Sort 2 - Simple sort<br>
-- Counting Sort 3 - Preparing<br>
+- Counting Sort 1 - Counting
+
+- Counting Sort 2 - Simple sort
+
+- Counting Sort 3 - Preparing
+
 - Full Counting Sort (advanced)
 
 There will also be some challenges where you'll get to apply what you've learnt.
@@ -55,8 +64,11 @@ Output the index of **V** in the array.
 
 #### Constraints
 - **1 <= n <= 1000**
+
 - **-1000 <= V <= 1000, V E ar**
+
 - It is guaranteed that **V** will occur in  exactly once.<br>
+
 <i>This "sample" shows the first input test case. It is often useful to go through the sample to understand a challenge.</i>
 
 #### Sample Input
