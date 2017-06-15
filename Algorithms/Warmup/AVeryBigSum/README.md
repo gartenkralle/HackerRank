@@ -17,12 +17,15 @@ Print a single value equal to the sum of the elements in the array.
 
 #### Sample Input
 
-`5`<br>
-`1000000001 1000000002 1000000003 1000000004 1000000005`
+```
+5
+1000000001 1000000002 1000000003 1000000004 1000000005
+```
 
 #### Output
-`
-5000000015`
+```
+5000000015
+```
 #### Note:
 
 The range of the 32-bit integer is **(-2^31) to ((2^31) - 1) or [-2147483648, 2147483647]**.
