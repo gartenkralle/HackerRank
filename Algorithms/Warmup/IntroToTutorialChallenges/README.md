@@ -67,4 +67,4 @@ This "sample" shows the first input test case. It is often useful to go through 
 . The value  is the nd element in the array, but its index is  since array indices start from , so the answer is .
 <br>
 <br>
-[HackerRank](https://www.hackerrank.com/challenges/tutorial-intro)
+#### Reference: [HackerRank](https://www.hackerrank.com/challenges/tutorial-intro)
