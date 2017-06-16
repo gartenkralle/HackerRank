@@ -13,9 +13,9 @@ The second line contains **N** space-separated integers describing an array of n
 
 You must print the following **3** lines:
 
-A decimal representing of the fraction of positive numbers in the array compared to its size.
-A decimal representing of the fraction of negative numbers in the array compared to its size.
-A decimal representing of the fraction of zeroes in the array compared to its size.
+1. A decimal representing of the fraction of positive numbers in the array compared to its size.
+2. A decimal representing of the fraction of negative numbers in the array compared to its size.
+3. A decimal representing of the fraction of zeroes in the array compared to its size.
 Sample Input
 ```
 6
