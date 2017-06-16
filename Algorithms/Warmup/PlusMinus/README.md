@@ -29,7 +29,7 @@ Sample Input
 ```
 #### Explanation
 
-There are  positive numbers,  negative numbers, and  zero in the array. 
+There are  positive numbers,  negative numbers, and  zero in the array.<br>
 The respective fractions of positive numbers, negative numbers and zeroes are 3/6 = 0.500000, 2/6 = 0.333333 and 1/6 = 0.166667, respectively.
 <br>
 <br>
