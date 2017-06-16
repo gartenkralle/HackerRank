@@ -1,6 +1,6 @@
 using System;
 
-namespace PlusMinus
+namespace Solution
 {
     class Program
     {
