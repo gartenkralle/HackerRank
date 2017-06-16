@@ -6,7 +6,7 @@ Given an array of integers, calculate which fraction of its elements are positiv
 
 #### Input Format
 
-The first line contains an integer, **N**, denoting the size of the array. 
+The first line contains an integer, **N**, denoting the size of the array.
 The second line contains **N** space-separated integers describing an array of numbers **(a0, a1, a2,...,an-1)**.
 
 #### Output Format
