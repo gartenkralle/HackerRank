@@ -10,10 +10,10 @@ namespace Solution
 
             for (int i = 0; i < N; i++)
             {
-                for (int j = i+1; j < N; j++)
+                for (int j = (i + 1); j < N; j++)
                     Console.Write(' ');
 
-                for (int j = 0; j < i+1; j++)
+                for (int j = 0; j < (i + 1); j++)
                     Console.Write('#');
 
                 Console.WriteLine();
