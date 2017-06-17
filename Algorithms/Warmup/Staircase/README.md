@@ -22,8 +22,9 @@ Print a staircase of size **0** using # symbols and spaces.
 **Note:** The last line must have  spaces in it.
 
 #### Sample Input
-
+```
 6 
+```
 #### Sample Output
 ```
      #
