@@ -20,3 +20,6 @@ Convert and print the given time in **24**-hour format, where **00 <= hh <= 23**
 ```
 19:05:45
 ```
+<br>
+<br>
+#### [HackerRank](https://www.hackerrank.com/challenges/time-conversion)
