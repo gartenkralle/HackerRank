@@ -36,7 +36,7 @@ YES
 #### Explanation 0
 
 For the first test case, no such index exists. 
-For the second test case, , therefore index  satisfies the given conditions.
+For the second test case, **A[0] + A[1] = A[3]**, therefore index **2** satisfies the given conditions.
 <br>
 <br>
 #### Reference: [HackerRank](https://www.hackerrank.com/challenges/sherlock-and-array)
