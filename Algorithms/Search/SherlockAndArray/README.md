@@ -12,13 +12,16 @@ The first line contains **T**, the number of test cases. For each test case, the
 #### Constraints
 
  **1 <= T <= 10**
+ 
  **1 <= n <= 10^5**
+ 
  **1 <= Ai <= 2 x 10^4**
+ 
  **1 <= i <= N**
  
 #### Output Format
 
-For each test case print YES if there exists an element in the array, such that the sum of the elements on its left is equal to the sum of the elements on its right; otherwise print NO.
+For each test case print ```YES``` if there exists an element in the array, such that the sum of the elements on its left is equal to the sum of the elements on its right; otherwise print ```NO```.
 
 #### Sample Input 0
 ```
