@@ -11,12 +11,9 @@ The first line contains **T**, the number of test cases. For each test case, the
 
 #### Constraints
 
- **1 <= T <= 10**
- 
- **1 <= n <= 10^5**
- 
- **1 <= Ai <= 2 x 10^4**
- 
+ **1 <= T <= 10**<br>
+ **1 <= n <= 10^5**<br>
+ **1 <= Ai <= 2 x 10^4**<br> 
  **1 <= i <= N**
  
 #### Output Format
