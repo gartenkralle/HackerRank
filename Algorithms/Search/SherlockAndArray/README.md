@@ -1,6 +1,7 @@
 Sherlock and Array
 ==================
 [Русский](https://www.hackerrank.com/external_redirect?to=https://hr-filepicker.s3.amazonaws.com/101may14/russian/2490-sherlock-and-array.pdf) | [中文](https://www.hackerrank.com/external_redirect?to=https://hr-filepicker.s3.amazonaws.com/101may14/chinese/2490-sherlock-and-array.pdf)
+
 Watson gives Sherlock an array  of length . Then he asks him to determine if there exists an element in the array such that the sum of the elements on its left is equal to the sum of the elements on its right. If there are no elements to the left/right, then the sum is considered to be zero. 
 Formally, find an , such that, .
 
