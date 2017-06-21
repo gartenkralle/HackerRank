@@ -40,3 +40,6 @@ not pangram
 #### Explanation
 
 In the first test case, the answer is pangram because the sentence contains all the letters of the English alphabet.
+<br>
+<br>
+#### Reference: [HackerRank](https://www.hackerrank.com/challenges/pangrams)
