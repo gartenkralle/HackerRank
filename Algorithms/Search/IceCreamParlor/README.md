@@ -4,7 +4,7 @@ Each time Sunny and Johnny take a trip to the Ice Cream Parlor, they pool togeth
 
 Given the value of  and the cost of each flavor for  trips to the Ice Cream Parlor, help Sunny and Johnny choose two flavors such that they spend their entire pool of money () during each visit. For each trip to the parlor, print the ID numbers for the two types of ice cream that Sunny and Johnny purchase as two space-separated integers on a new line. You must print the smaller ID first and the larger ID second.
 
-Note: Two ice creams having unique IDs  and  may have the same cost (i.e., ).
+**Note:** Two ice creams having unique IDs **i** and **j** may have the same cost (i.e., **ci eq cj**).
 
 #### Input Format
 
@@ -22,9 +22,9 @@ The first line contains an integer, , denoting the number of trips to the ice cr
 
 **- 2 <= n <= 10^4**
 
-**- 1 <= ci <= 10^4, where i E [1, n]**
+**- 1 <= ci <= 10^4**, where i E **[1, n]**
 
-**- It is guaranteed that there will always be a unique solution.**
+- It is guaranteed that there will always be a unique solution.
 
 #### Output Format
 
