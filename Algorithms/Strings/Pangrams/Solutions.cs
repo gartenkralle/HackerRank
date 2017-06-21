@@ -21,7 +21,6 @@ namespace Pangram
                 Console.WriteLine("pangram");
             else
                 Console.WriteLine("not pangram");
-
         }
     }
 }
