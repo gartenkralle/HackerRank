@@ -11,13 +11,19 @@ Note: Two ice creams having unique IDs  and  may have the same cost (i.e., ).
 The first line contains an integer, , denoting the number of trips to the ice cream parlor. The  subsequent lines describe all of Sunny and Johnny's trips to the parlor; each trip is described as follows:
 
 1. The first line contains **m**.
+
 2. The second line contains **n**.
+
 3. The third line contains **n** space-separated integers denoting the cost of each respective flavor. The **ith** integer corresponding to the cost, **ci**, for the ice cream with ID number **i** (where **1 <= i <= n**).
 #### Constraints
 **- 1 <= t <= 50**
+
 **- 2 <= m <= 10^4**
+
 **- 2 <= n <= 10^4**
+
 **- 1 <= ci <= 10^4, where i E [1, n]**
+
 **- It is guaranteed that there will always be a unique solution.**
 
 #### Output Format
