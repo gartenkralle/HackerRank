@@ -5,7 +5,7 @@ We define a modified Fibonacci sequence using the following definition:
 Given terms ti and ti+1 where i E [1, inf), term ti+2 is computed using the following relation:
 ti+2 = ti + (ti+1)^2
 ```
-For example, if term  and , term , term , term , and so on.
+For example, if term **t(1) = 0** and **t(2) = 1**, term **t(3) = 0 + 1^2 = 1**, term **t(4) = 1 + 1^2 = 2**, term **t(5) = 1 + 2^2 = 5**, and so on.
 
 Given three integers, **t1**, **t2**, and **n**, compute and print term  of a modified Fibonacci sequence.
 
