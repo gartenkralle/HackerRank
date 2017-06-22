@@ -16,11 +16,11 @@ Given three integers, **t1**, **t2**, and **n**, compute and print term  of a mo
 A single line of three space-separated integers describing the respective values of **t1**, **t2**, and **n**.
 
 #### Constraints
-- ** 0 <= t1, t2 <=2**
+- **0 <= t1, t2 <=2**
 
-- ** 3 <= n <= 20**
+- **3 <= n <= 20**
 
-- *tn** may far exceed the range of a **64**-bit integer.
+- **tn** may far exceed the range of a **64**-bit integer.
 #### Output Format
 
 Print a single integer denoting the value of term  in the modified Fibonacci sequence where the first two terms are  and .
