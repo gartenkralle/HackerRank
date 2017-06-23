@@ -6,12 +6,12 @@ Given  queries in the form of a graph and some starting node, , perform each que
 
 #### Input Format
 
-The first line contains an integer, , denoting the number of queries. The subsequent lines describe each query in the following format:
+- The first line contains an integer, , denoting the number of queries. The subsequent lines describe each query in the following format:
 
-The first line contains two space-separated integers describing the respective values of  (the number of nodes) and  (the number of edges) in the graph.
+- The first line contains two space-separated integers describing the respective values of  (the number of nodes) and  (the number of edges) in the graph.
 Each line  of the  subsequent lines contains two space-separated integers,  and , describing an edge connecting node  to node .
-The last line contains a single integer, , denoting the index of the starting node.
-Constraints
+- The last line contains a single integer, , denoting the index of the starting node.
+#### Constraints
 
 #### Output Format
 
