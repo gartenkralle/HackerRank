@@ -1,7 +1,7 @@
 using System;
 using System.Collections.Generic;
 
-namespace QickSort1Partition
+namespace Quicksort1Partition
 {
     class Program
     {
