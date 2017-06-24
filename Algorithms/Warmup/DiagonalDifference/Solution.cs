@@ -1,6 +1,6 @@
 using System;
 
-namespace Solution
+namespace DiagonalDifference
 {
     class Program
     {
