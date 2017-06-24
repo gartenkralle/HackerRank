@@ -1,26 +1,29 @@
 using System;
 
-class Solution
+namespace SimpleArraySum
 {
-    static void Main(String[] args)
+    class Program
     {
-        int n = Int32.Parse(Console.ReadLine());
-        int[] arr = Array.ConvertAll(Console.ReadLine().Split(' '), int.Parse);
-
-        int result = SimpleArraySum(arr);
-
-        Console.WriteLine(result);
-    }
-
-    static int SimpleArraySum(int[] arr)
-    {
-        int sum = 0;
-
-        for (int i = 0; i < arr.Length; i++)
+        static void Main(String[] args)
         {
-            sum += arr[i];
+            int n = Int32.Parse(Console.ReadLine());
+            int[] arr = Array.ConvertAll(Console.ReadLine().Split(' '), int.Parse);
+
+            int result = SimpleArraySum(arr);
+
+            Console.WriteLine(result);
         }
 
-        return sum;
+        static int SimpleArraySum(int[] arr)
+        {
+            int sum = 0;
+
+            for (int i = 0; i < arr.Length; i++)
+            {
+                sum += arr[i];
+            }
+
+            return sum;
+        }
     }
 }
