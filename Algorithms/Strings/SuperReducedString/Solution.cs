@@ -21,7 +21,6 @@ namespace SuperReducedString
                 Console.WriteLine("Empty String");
             else
                 Console.WriteLine(s);
-
         }
     }
 }
