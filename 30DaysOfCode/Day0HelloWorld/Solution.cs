@@ -1,13 +1,12 @@
 using System;
 
-namespace HelloWorld
+namespace Day0HelloWorld
 {
     class Program
     {
         static void Main(String[] args)
         {
-            String inputString;
-            inputString = Console.ReadLine();
+            String inputString = Console.ReadLine();
 
             Console.WriteLine("Hello, World.");
             Console.WriteLine(inputString);
