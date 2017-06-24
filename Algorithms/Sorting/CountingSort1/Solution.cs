@@ -1,21 +1,24 @@
 using System;
 
-class Solution
+namespace CountingSort1
 {
-    static void Main(String[] args)
+    class Program
     {
-        int n = Convert.ToInt32(Console.ReadLine());
-
-        int[] arr = Array.ConvertAll(Console.ReadLine().Split(' '), x => Int32.Parse(x));
-
-        int maxValue = 100;
-        int[] counts = new int[maxValue];
-
-        for (int i = 0; i < arr.Length; i++)
+        static void Main(String[] args)
         {
-            counts[arr[i]]++;
-        }
+            int n = Convert.ToInt32(Console.ReadLine());
 
-        Console.WriteLine(String.Join(" ", counts));
+            int[] arr = Array.ConvertAll(Console.ReadLine().Split(' '), x => Int32.Parse(x));
+
+            int maxValue = 100;
+            int[] counts = new int[maxValue];
+
+            for (int i = 0; i < arr.Length; i++)
+            {
+                counts[arr[i]]++;
+            }
+
+            Console.WriteLine(String.Join(" ", counts));
+        }
     }
 }
