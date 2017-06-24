@@ -2,7 +2,7 @@ using System;
 
 namespace FunnyString
 {
-    class FunnyString
+    class Program
     {
         static void Main(String[] args)
         {
