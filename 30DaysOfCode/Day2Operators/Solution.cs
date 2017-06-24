@@ -2,7 +2,7 @@ using System;
 using System.Globalization;
 using System.Threading;
 
-namespace Operators
+namespace Day2Operators
 {
     class Program
     {
