@@ -1,6 +1,6 @@
 using System;
 
-namespace IntroToConditionalStatements
+namespace Day3IntroToConditionalStatements
 {
     class Program
     {
