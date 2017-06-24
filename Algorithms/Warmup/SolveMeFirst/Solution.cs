@@ -1,19 +1,22 @@
 using System;
 
-class Solution
+namespace SolveMeFirst
 {
-    static void Main(String[] args)
+    class Program
     {
-        int val1 = Int32.Parse(Console.ReadLine());
-        int val2 = Int32.Parse(Console.ReadLine());
+        static void Main(String[] args)
+        {
+            int val1 = Int32.Parse(Console.ReadLine());
+            int val2 = Int32.Parse(Console.ReadLine());
 
-        int sum = SolveMeFirst(val1, val2);
+            int sum = SolveMeFirst(val1, val2);
 
-        Console.WriteLine(sum);
-    }
+            Console.WriteLine(sum);
+        }
 
-    static int SolveMeFirst(int a, int b)
-    {
-        return a + b;
+        static int SolveMeFirst(int a, int b)
+        {
+            return a + b;
+        }
     }
 }
