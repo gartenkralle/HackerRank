@@ -1,26 +1,29 @@
 using System;
 
-class Solution
+namespace AVeryBigSum
 {
-    static void Main(String[] args)
+    class Program
     {
-        int n = Int32.Parse(Console.ReadLine());
-        long[] arr = Array.ConvertAll(Console.ReadLine().Split(' '), long.Parse);
-
-        long result = AVeryBigSum(n, arr);
-
-        Console.WriteLine(result);
-    }
-
-    static long AVeryBigSum(int n, long[] arr)
-    {
-        long sum = 0;
-
-        for (int i = 0; i < n; i++)
+        static void Main(String[] args)
         {
-            sum += arr[i];
+            int n = Int32.Parse(Console.ReadLine());
+            long[] arr = Array.ConvertAll(Console.ReadLine().Split(' '), long.Parse);
+
+            long result = AVeryBigSum(n, arr);
+
+            Console.WriteLine(result);
         }
 
-        return sum;
+        static long AVeryBigSum(int n, long[] arr)
+        {
+            long sum = 0;
+
+            for (int i = 0; i < n; i++)
+            {
+                sum += arr[i];
+            }
+
+            return sum;
+        }
     }
 }
