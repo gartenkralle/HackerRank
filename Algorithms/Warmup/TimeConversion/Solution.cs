@@ -1,6 +1,6 @@
 using System;
 
-namespace Solution
+namespace TimeConversion
 {
     class Program
     {
