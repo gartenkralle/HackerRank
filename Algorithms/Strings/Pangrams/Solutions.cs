@@ -1,7 +1,7 @@
 using System;
 using System.Collections.Generic;
 
-namespace Pangram
+namespace Pangrams
 {
     class Program
     {
