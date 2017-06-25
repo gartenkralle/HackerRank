@@ -65,7 +65,6 @@ namespace Day24_MoreLinkedLists
 
         static void Main(String[] args)
         {
-
             Node head = null;
             int T = Int32.Parse(Console.ReadLine());
 
