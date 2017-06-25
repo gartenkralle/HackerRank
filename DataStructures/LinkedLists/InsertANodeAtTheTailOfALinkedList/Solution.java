@@ -35,6 +35,6 @@ class InsertANodeAtTheTailOfALinkedList
         Node node1 = new Node();
         node1.data = 1;
              
-        list.Insert(node1, 2);
+        Node result = list.Insert(node1, 2);
     }   
 }
