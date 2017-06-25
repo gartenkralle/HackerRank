@@ -6,16 +6,16 @@ import java.util.Scanner;
 
 class Checker implements Comparator<Player>
 {
-	@Override
+    @Override
 	public int compare(Player o1, Player o2) 
-	{	
-		if(o1.score < o2.score) 			
-			return 1;
-		else if(o1.score == o2.score)
-			return o1.name.compareTo(o2.name);
-		else
-			return -1;
-	}
+    {	
+        if(o1.score < o2.score) 			
+            return 1;
+        else if(o1.score == o2.score)
+            return o1.name.compareTo(o2.name);
+        else
+            return -1;
+    }
 }
 
 class Player
@@ -30,8 +30,8 @@ class Player
     }
 }
 
-class Solution {
-
+class Solution
+{
     public static void main(String[] args) 
     {
         Scanner scan = new Scanner(System.in);
