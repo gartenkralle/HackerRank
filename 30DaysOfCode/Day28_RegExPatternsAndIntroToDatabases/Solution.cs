@@ -1,7 +1,7 @@
 using System;
 using System.Collections.Generic;
 
-namespace RegExPatternsAndIntroToDatabases
+namespace Day28_RegExPatternsAndIntroToDatabases
 {
     class Program
     {
