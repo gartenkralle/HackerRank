@@ -1,6 +1,6 @@
 using System;
 
-namespace Day5Loops
+namespace Day5_Loops
 {
     class Program
     {

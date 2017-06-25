@@ -1,6 +1,6 @@
 using System;
 
-namespace Day7Arrays
+namespace Day7_Arrays
 {
     class Program
     {

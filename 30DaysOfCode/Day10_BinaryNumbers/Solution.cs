@@ -1,6 +1,6 @@
 using System;
 
-namespace Day10BinaryNumbers
+namespace Day10_BinaryNumbers
 {
     class Program
     {

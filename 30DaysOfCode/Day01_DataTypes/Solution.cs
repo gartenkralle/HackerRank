@@ -1,6 +1,6 @@
 using System;
 
-namespace Day1DataTypes
+namespace Day1_DataTypes
 {
     class Program
     {

@@ -1,15 +1,36 @@
-public class Calculator : AdvancedArithmetic
+using System;
+
+namespace Day19_Interfaces
 {
-    public int divisorSum(int n)
+    public interface AdvancedArithmetic
     {
-        int sum = 0;
+        int divisorSum(int n);
+    }
 
-        for (int i = 1; i <= n; i++)
+    public class Calculator : AdvancedArithmetic
+    {
+        public int divisorSum(int n)
         {
-            if ((n % i) == 0)
-                sum += i;
-        }
+            int sum = 0;
 
-        return sum;
+            for (int i = 1; i <= n; i++)
+            {
+                if ((n % i) == 0)
+                    sum += i;
+            }
+
+            return sum;
+        }
+    }
+
+    class Program
+    {
+        static void Main(string[] args)
+        {
+            int n = Int32.Parse(Console.ReadLine());
+            AdvancedArithmetic myCalculator = new Calculator();
+            int sum = myCalculator.divisorSum(n);
+            Console.WriteLine("I implemented: AdvancedArithmetic\n" + sum);
+        }
     }
 }

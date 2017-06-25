@@ -1,6 +1,6 @@
 using System;
 
-namespace Day15LinkedLists
+namespace Day15_LinkedLists
 {
     class Node
     {
@@ -14,7 +14,7 @@ namespace Day15LinkedLists
         }
     }
 
-    class Solution
+    class Program
     {
         public static Node insert(Node head, int data)
         {

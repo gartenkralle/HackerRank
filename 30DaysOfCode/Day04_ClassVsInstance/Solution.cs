@@ -1,6 +1,6 @@
 using System;
 
-namespace Day4ClassVsInstance
+namespace Day4_ClassVsInstance
 {
     class Person
     {

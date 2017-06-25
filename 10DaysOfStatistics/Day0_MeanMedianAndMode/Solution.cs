@@ -2,7 +2,7 @@ using System;
 using System.Collections.Generic;
 using System.Linq;
 
-namespace Day0MeanMedianAndMode
+namespace Day0_MeanMedianAndMode
 {
     class Program
     {

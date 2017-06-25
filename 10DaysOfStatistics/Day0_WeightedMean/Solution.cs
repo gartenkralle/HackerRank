@@ -1,6 +1,6 @@
 using System;
 
-namespace Day0WeightedMean
+namespace Day0_WeightedMean
 {
     class Program
     {

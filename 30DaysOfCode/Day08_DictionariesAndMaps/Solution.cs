@@ -1,7 +1,7 @@
 using System;
 using System.Collections.Generic;
 
-namespace Day8DictionariesAndMaps
+namespace Day8_DictionariesAndMaps
 {
     class Program
     {

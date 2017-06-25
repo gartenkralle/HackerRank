@@ -1,6 +1,6 @@
 using System;
 
-namespace Day17MoreExceptions
+namespace Day17_MoreExceptions
 {
     class Calculator
     {
@@ -13,7 +13,7 @@ namespace Day17MoreExceptions
         }
     }
 
-    class Solution
+    class Program
     {
         static void Main(String[] args)
         {

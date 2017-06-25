@@ -1,6 +1,6 @@
 using System;
 
-namespace Day6LetsReview
+namespace Day6_LetsReview
 {
     class Program
     {
