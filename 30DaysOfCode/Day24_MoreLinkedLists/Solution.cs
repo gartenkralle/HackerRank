@@ -12,8 +12,8 @@ namespace Day24_MoreLinkedLists
             data = d;
             next = null;
         }
-
     }
+    
     class Solution
     {
 
@@ -52,6 +52,7 @@ namespace Day24_MoreLinkedLists
 
             return head;
         }
+        
         public static void display(Node head)
         {
             Node start = head;
