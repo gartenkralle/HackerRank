@@ -38,9 +38,9 @@ class InsertANodeAtASpecificPositionInALinkedList
     {
         InsertANodeAtASpecificPositionInALinkedList list = new InsertANodeAtASpecificPositionInALinkedList();
         
-        Node node1 = new Node();
-        node1.data = 3;
-             
-        Node result = list.InsertNth(node1, 4, 0);
+        Node result;
+        
+        result = list.InsertNth(null, 3, 0);
+        result = list.InsertNth(result, 4, 0);
     }   
 }
