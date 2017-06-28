@@ -1,6 +1,6 @@
 using System;
 
-namespace SecurityPermutations
+namespace SecurityInvolution
 {
     class Program
     {
