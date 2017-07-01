@@ -72,8 +72,6 @@ class BinarySearchTreeLowestCommonAncestor
     
     public static void main(String[] args) 
     {
-        BinarySearchTreeLowestCommonAncestor tree = new BinarySearchTreeLowestCommonAncestor();        
-
         Node node1 = new Node();
         Node node2 = new Node();
         Node node3 = new Node();
@@ -94,6 +92,6 @@ class BinarySearchTreeLowestCommonAncestor
         node2.right = node3;
         node7.left = node6;
         
-        Node result = tree.lca(node4, 1, 7);
+        Node result = lca(node4, 1, 7);
     }   
 }
