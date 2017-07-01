@@ -2,23 +2,23 @@
 
 using namespace std;
 
-void update(int *a, int *b) 
+void update(int *a, int *b)
 {
-	int tempA = *a;
+    int tempA = *a;
 
-	*a = *a + *b;
-	*b = abs(tempA - *b);
+    *a = *a + *b;
+    *b = abs(tempA - *b);
 }
 
 int main()
 {
-	int a, b;
-	cin >> a >> b;
+    int a, b;
+    cin >> a >> b;
 
-	update(&a, &b);
+    update(&a, &b);
 
-	cout << a << endl;
-	cout << b << endl;
+    cout << a << endl;
+    cout << b << endl;
 
-	return 0;
+    return 0;
 }
