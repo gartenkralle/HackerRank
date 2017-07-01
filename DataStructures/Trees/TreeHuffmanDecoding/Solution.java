@@ -2,9 +2,9 @@ package tree;
 
 class Node
 {
-    public  int frequency;
-    public  char data;
-    public  Node left, right;
+    int frequency;
+    char data;
+    Node left, right;
  }
 
 class TreeHuffmanDecoding 
