@@ -1,0 +1,14 @@
+package test;
+
+class JavaRegex
+{
+    public String pattern;
+    
+    public MyRegex()
+    {
+        pattern = "^([01]?\\d\\d?|2[0-4]\\d|25[0-5])\\." +
+                   "([01]?\\d\\d?|2[0-4]\\d|25[0-5])\\." +
+                   "([01]?\\d\\d?|2[0-4]\\d|25[0-5])\\." +
+                   "([01]?\\d\\d?|2[0-4]\\d|25[0-5])$";
+    }
+}
