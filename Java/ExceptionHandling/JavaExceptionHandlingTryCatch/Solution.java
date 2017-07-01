@@ -1,7 +1,7 @@
 import java.util.InputMismatchException;
 import java.util.Scanner;
 
-public class JavaExceptionHandling 
+public class JavaExceptionHandlingTryCatch
 {
     public static void main(String[] args) 
     {
