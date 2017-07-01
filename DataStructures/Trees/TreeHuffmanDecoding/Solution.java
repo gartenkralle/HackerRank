@@ -5,7 +5,7 @@ class Node
     int frequency;
     char data;
     Node left, right;
- }
+}
 
 class TreeHuffmanDecoding 
 {    
