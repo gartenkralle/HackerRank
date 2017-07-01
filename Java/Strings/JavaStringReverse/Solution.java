@@ -1,5 +1,6 @@
-import java.io.*;
-import java.util.*;
+package test;
+
+import java.util.Scanner;
 
 public class JavaStringReverse 
 {
@@ -9,16 +10,16 @@ public class JavaStringReverse
         String A = sc.next();
         
         if(isPalindrom(A))
-        	System.out.println("Yes");
+            System.out.println("Yes");
         else
-        	System.out.println("No");
+            System.out.println("No");
     }
 
-	private static boolean isPalindrom(String a)
-	{
-		if(new StringBuilder(a).reverse().toString().equals(a))
-			return true;
-		else
-			return false;
-	}
+    private static boolean isPalindrom(String a)
+    {
+        if(new StringBuilder(a).reverse().toString().equals(a))
+            return true;
+        else
+            return false;
+    }
 }
