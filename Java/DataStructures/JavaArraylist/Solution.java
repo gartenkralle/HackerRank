@@ -1,8 +1,8 @@
-import java.io.*;
-import java.util.*;
-import java.text.*;
-import java.math.*;
-import java.util.regex.*;
+package test;
+
+import java.util.ArrayList;
+import java.util.List;
+import java.util.Scanner;
 
 public class JavaArraylist 
 {
@@ -15,31 +15,31 @@ public class JavaArraylist
         
         for(int i = 0; i < n; i++)
         {
-        	List<Integer> line = new ArrayList<>();
-        	
-        	String[] arr = in.nextLine().split(" ");
-        	
-        	for(String s : arr)
-        		line.add(Integer.parseInt(s));
-        	
-        	lines.add(line);
+            List<Integer> line = new ArrayList<>();
+            
+            String[] arr = in.nextLine().split(" ");
+            
+            for(String s : arr)
+                line.add(Integer.parseInt(s));
+            
+            lines.add(line);
         }
         
         int q = Integer.parseInt(in.nextLine());
         
         for(int i = 0; i < q; i++)
         {
-        	int x = in.nextInt();
-        	int y = in.nextInt();
-        	
-        	try
-        	{
-        		System.out.println(lines.get(x - 1).get(y));
-        	}
-        	catch(IndexOutOfBoundsException ex)
-        	{
-        		System.out.println("ERROR!");
-        	}
+            int x = in.nextInt();
+            int y = in.nextInt();
+            
+            try
+            {
+                System.out.println(lines.get(x - 1).get(y));
+            }
+            catch(IndexOutOfBoundsException ex)
+            {
+                System.out.println("ERROR!");
+            }
         }
     }
 }
