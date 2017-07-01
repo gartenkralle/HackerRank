@@ -1,3 +1,5 @@
+package test;
+
 import java.util.*;
 import java.util.Scanner;
 
@@ -24,6 +26,7 @@ class Solution
         {
             int n = in .nextInt();
             int p = in .nextInt();
+            
             MyCalculator my_calculator = new MyCalculator();
       
             try 
