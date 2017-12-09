@@ -120,7 +120,7 @@ namespace RoadsAndLibraries
 
         private int DepthFirstSearch(Node node)
         {
-            if ((node.Visited) || (node.Nodes == null))
+            if (node.Visited)
                 return 0;
 
             node.Visited = true;
