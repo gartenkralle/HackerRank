@@ -16,10 +16,10 @@ namespace KFactorization
             Array.Sort(A);
             Array.Reverse(A);
 
-            Console.WriteLine(GetIntegratedKFactorization(A, n));
+            Console.WriteLine(GetMultipliedKFactorization(A, n));
         }
 
-        private static string GetIntegratedKFactorization(int[] a, int n)
+        private static string GetMultipliedKFactorization(int[] a, int n)
         {
             int[] kFactorization = GetLexicographicallySmallest(GetKFactorizations(a, n));
 
