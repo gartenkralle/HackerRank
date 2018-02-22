@@ -1,7 +1,7 @@
 using System;
 using System.Linq;
 
-namespace SherlockAndPlanes
+namespace StrongPassword
 {
     class Program
     {
