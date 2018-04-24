@@ -10,7 +10,7 @@ namespace Day1_Quartiles
             int N = Int32.Parse(Console.ReadLine());
             int[] arr;
 
-            arr = Array.ConvertAll(Console.ReadLine().Split(' '), x => Int32.Parse(x));
+            arr = Array.ConvertAll(Console.ReadLine().Split(' '), Int32.Parse);
 
             Array.Sort(arr);
 
