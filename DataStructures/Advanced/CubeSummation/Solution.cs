@@ -7,9 +7,6 @@ namespace CubeSummation
     {
         static void Main(string[] args)
         {
-            Vector3 u1 = new Update(1, 2, 3, 4).Position;
-            Vector3 u2 = new Update(1, 2, 3, 5).Position;
-
             int T = int.Parse(Console.ReadLine());
 
             for (int i = 0; i < T; i++)
