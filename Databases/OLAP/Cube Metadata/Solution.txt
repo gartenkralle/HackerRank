@@ -1,0 +1,1 @@
+Both star and snowflake schema(s)
