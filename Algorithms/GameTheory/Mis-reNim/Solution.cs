@@ -1,6 +1,6 @@
 using System;
 
-namespace MisèreNim
+namespace MisereNim
 {
     class Program
     {
