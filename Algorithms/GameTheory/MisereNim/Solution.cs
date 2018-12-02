@@ -1,6 +1,6 @@
 using System;
 
-namespace MisereNim
+namespace MisèreNim
 {
     class Program
     {
@@ -52,9 +52,9 @@ namespace MisereNim
 
         private static bool ContainsOnesOnly(int[] numbers)
         {
-            foreach (int s in numbers)
+            foreach (int number in numbers)
             {
-                if (s != 1)
+                if (number != 1)
                 {
                     return false;
                 }
