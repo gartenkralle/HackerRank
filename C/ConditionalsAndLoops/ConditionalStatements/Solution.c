@@ -16,7 +16,10 @@ int main()
     char* n_str = readline();
     int n = strtol(n_str, &n_endptr, 10);
 
-    if (n_endptr == n_str || *n_endptr != '\0') { exit(EXIT_FAILURE); }
+    if (n_endptr == n_str || *n_endptr != '\0') 
+    { 
+        exit(EXIT_FAILURE);
+    }
 
     if (n == 1)
         printf("one");
