@@ -5,4 +5,3 @@ function main() {
     console.log(PI * (radius ** 2));
     console.log(2 * PI * radius);
 }
-    
