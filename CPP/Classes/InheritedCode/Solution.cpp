@@ -2,6 +2,7 @@
 #include <string>
 #include <sstream>
 #include <exception>
+
 using namespace std;
 
 class BadLengthException : exception
