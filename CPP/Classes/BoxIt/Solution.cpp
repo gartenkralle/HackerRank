@@ -4,9 +4,6 @@
 
 using namespace std;
 
-//Overload operator << as specified
-//ostream& operator<<(ostream& out, Box& B)
-
 class Box
 {
 private:
