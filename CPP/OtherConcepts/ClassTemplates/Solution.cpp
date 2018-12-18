@@ -8,8 +8,7 @@
 
 using namespace std;
 
-template<class T>
-class AddElements
+template<class T> class AddElements
 {
 public:
     T data;
