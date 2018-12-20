@@ -16,12 +16,6 @@ using namespace std;
 FUNCTION(minimum, < )
 FUNCTION(maximum, > )
 
-//void minimum(int m, int e)
-//{
-//    if (e < m)
-//        m = e;
-//}
-
 int main()
 {
     int n; cin >> n;
