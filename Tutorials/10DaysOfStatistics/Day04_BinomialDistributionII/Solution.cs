@@ -18,10 +18,9 @@ namespace BinomialDistributionII
         {
             double probability = 0;
 
-            while (begin <= end)
+            for (int i = begin; i <= end; i++)
             {
-                probability += GetProbability(n, begin, p);
-                begin++;
+                probability += GetProbability(n, i, p);
             }
 
             return probability;
