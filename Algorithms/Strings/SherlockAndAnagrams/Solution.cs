@@ -58,13 +58,15 @@ namespace SherlockAndAnagrams
             foreach (int n in alphabet)
             {
                 if (n != 0)
+                {
                     return false;
+                }
             }
 
             return true;
         }
 
-        static void CountCharacters(int[] arr, string s, int n)
+        private static void CountCharacters(int[] arr, string s, int n)
         {
             foreach (char c in s)
             {
