@@ -43,6 +43,7 @@ namespace SumarAndTheFloatingRocks
             {
                 return Math.Abs(b);
             }
+            
             if (b == 0)
             {
                 return Math.Abs(a);
