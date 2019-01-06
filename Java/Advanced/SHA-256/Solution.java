@@ -15,7 +15,6 @@ public class Solution
         try
         {
             digest = MessageDigest.getInstance("SHA-256").digest(s.getBytes());
-            
         }
         catch (NoSuchAlgorithmException e)
         {
