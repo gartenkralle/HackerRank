@@ -18,7 +18,7 @@ namespace DigitCameraAutodetectDayOrNight
                 sum += image[i];
             }
 
-            if (sum / (float)maxSum >= 0.5)
+            if (sum / (float)maxSum >= 0.35)
                 Console.WriteLine("day");
             else
                 Console.WriteLine("night");
