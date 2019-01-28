@@ -5,4 +5,4 @@ pivot
 	max([Name])
 	for Occupation
 	in (Doctor, Professor, Singer, Actor)
-) as piv
+) piv
