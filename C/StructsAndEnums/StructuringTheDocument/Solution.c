@@ -30,7 +30,7 @@ void add_word(sentence * _sentence, word * _word)
 
 	_sentence->word_count++;
 	_sentence->data = (word*)realloc(_sentence->data, _sentence->word_count * sizeof(word));
-	_sentence->data[_sentence->word_count - 1] = *_word;
+    _sentence->data[_sentence->word_count - 1] = *_word;
 	_word->data = NULL;
 }
 
