@@ -53,7 +53,7 @@ void add_paragraph(document * _document, paragraph * _paragraph)
 	if (_document->data == NULL)
 	{
 		_document->data = (paragraph*)malloc(0);
-		_document->paragraph_count = 0;
+	    _document->paragraph_count = 0;
 	}
 
 	_document->paragraph_count++;
