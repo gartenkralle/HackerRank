@@ -7,7 +7,7 @@ class Node
     Node prev;
  }
 
-class ReverseADoublyLinked 
+class ReverseADoublyLinkedList
 {    
     Node Reverse(Node head)
     {
