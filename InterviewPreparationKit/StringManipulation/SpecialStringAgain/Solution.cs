@@ -20,8 +20,6 @@ namespace SpecialStringAgain
         {
             long count = 0;
 
-            s = s.Trim();
-
             int[] frequencies = GetFrequencies(s);
             int[] integral = GetIntegral(frequencies);
 
