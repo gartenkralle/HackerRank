@@ -19,7 +19,7 @@ int main()
 
 		cout << std::setw(0)  << std::showbase << std::fixed << std::nouppercase << std::hex << static_cast<unsigned long long>(A) << endl;
 
-		std::cout.precision(2);
+		std::cout.precision(2);t
 		cout << std::right << std::setfill('_') << std::setw(15) << std::showpos << B << endl;
 
 		std::cout.precision(9);
